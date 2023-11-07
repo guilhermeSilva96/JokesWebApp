@@ -1,5 +1,8 @@
 # Random Joke Generator
 
+![JokesWebApp](https://github.com/guilhermeSilva96/JokesWebApp/assets/139381851/3052e864-a0d0-4822-ad6a-893d41d2a967)
+
+
 This is a simple web application that generates random jokes using the JokeAPI. In this README, we'll explore the JavaScript mechanics and fundamentals used in the code.
 
 ## JavaScript Mechanics and Fundamentals
